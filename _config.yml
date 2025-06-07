@@ -1,7 +1,10 @@
 title: Shab Design
 logo: /assets/images/logo.avif
 baseurl: /awesome-jekyll-theme
-
+author:
+  name: Shabrina
+  email: shabrina.m13@gmail.com
+description: Aspiring UX Researcher & Designer with a background in visual design and a growing passion for user-centered problem solving.
 ##
 # Typewritter configuration.
 # Feel free to disable if you don't like it.
