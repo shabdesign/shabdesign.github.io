@@ -36,7 +36,8 @@ This project employs a **mixed-method approach** that combines **quantitative us
 ### User Research (Survey)
 A quantitative survey was conducted to gather insights from Indonesian university students who have used campus digital libraries. It explored user demographics, behavior, perceptions, and expectations. The survey was distributed online via social media using convenience sampling with a minimum target of 164 respondents (Slovin, confidence level 80%, margin of error 5%).
 ### Desk Research (Competitive analysis)
-To complement the user insights, a comparative review of four selected university digital library platforms was conducted: **BINUS University, Universitas Pendidikan Indonesia (UPI), Universitas Indonesia (UI), and Universitas Terbuka (UT)**. The competitive analysis focused on key UX and UI elements such as **Accessibility and login system, Search functionality, Type and format of collections, Mobile responsiveness, Supporting features (e.q., personalization, download options, citation tools), and Integration with other academic services**.
+To complement the user insights, a comparative review of four selected university digital library platforms was conducted: **BINUS University, Universitas Pendidikan Indonesia (UPI), Universitas Indonesia (UI), and Universitas Terbuka (UT)**. These platforms were selected based on a combination of user representation in the survey and their prominence in digital library implementation.
+The competitive analysis focused on key UX and UI elements such as **Accessibility and login system, Search functionality, Type and format of collections, Mobile responsiveness, Supporting features (e.q., personalization, download options, citation tools), and Integration with other academic services**. This comparison provided additional context on usability patterns and feature gaps across campuses.
 
 ---
 
