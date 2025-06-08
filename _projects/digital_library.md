@@ -4,8 +4,10 @@ title: Students & Digital Libraries - From Insight To Interface
 description: A UX case study to improve campus digital library experiences for university students
 image: 'https://picsum.photos/800/400'
 tags:
-  - tailwindcss
-  - html
+  - UIdesign
+  - UXdesign
+  - UXresearch
+  - Website
 ---
  
 ## Background
