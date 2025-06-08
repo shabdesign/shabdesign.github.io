@@ -19,6 +19,18 @@ Digital platforms are a primary need for students in their learning activities. 
 - **Design improved UI** — Create wireframes and UI concepts focused on accessibility and simplicity.
 - **Prototype & test** — Validate design through usability testing and iteration.
 
+## My Role
+This is my **first solo project**. I took on the whole role **from research planningto interface design**.
+
+## Timeline
+- **Project planning** — June 1, 2025
+- **Research planning** — June 2, 2025
+- **User & Desk Research** — June 3-9, 2025
+- **Quantitative & Competitive analysis** — June 10-12, 2025
+- **User Persona & Journey Map** - June 13-15, 2025
+- **Wireframe & Prototype** — June 16-25, 2025
+- **Validation & Feedback** — June 26-28, 2025
+- **Final Result** — June 29-30, 2025
 
 ---
 
