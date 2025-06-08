@@ -1,6 +1,7 @@
 title: Shab Design
 logo: /assets/images/Logo_noname-01.svg
 baseurl: /awesome-jekyll-theme
+markdown: kramdown
 author:
   name: Shabrina
   email: shabrina.m13@gmail.com
@@ -10,8 +11,6 @@ description: Aspiring UX Researcher & Designer with a background in visual desig
 # Feel free to disable if you don't like it.
 ##
 typewriter_effect: true
-
-markdown: kramdown
 
 ##
 # Collections configuration
