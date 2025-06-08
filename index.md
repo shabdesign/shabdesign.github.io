@@ -6,24 +6,24 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # Welcome to Shab Design's Space
 
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
-
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  **A Jounal and Portfolio of My Work**. I'll post my some of best projects, from the context to the final result. Kindly contact me if you're interested to work with me. I do **UX-UI Research, UX-UI Design, and Graphic Design**.
+  
 footer: true
 permalink: /
 ---
-## Hello World
+## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat porta lorem, non auctor magna aliquet ac. Nam finibus in massa quis molestie. Vestibulum malesuada iaculis consequat. Phasellus sagittis, nisl non semper vestibulum, tellus enim interdum purus, ac pretium magna lectus ac turpis. Phasellus scelerisque hendrerit magna vitae fermentum. Praesent facilisis erat viverra eros tristique, id faucibus eros volutpat. Duis tempus arcu in felis sollicitudin, in sodales leo scelerisque. Nullam dapibus libero eu iaculis rhoncus.
+Hi, I’m Shabrina — a self-taught learner currently exploring the world of UX Research & Design since 2023. I’ve been learning through e-learning platforms and bootcamp programs at MySkill, where I developed a strong interest in designing thoughtful, user-centered solutions.
 
-Nulla sed lorem imperdiet, efficitur velit et, mollis neque. Etiam placerat vehicula diam, a scelerisque diam posuere vel. Sed a convallis elit. Proin sodales, mi sit amet aliquam lobortis, ligula elit tristique justo, sodales placerat diam nunc vitae eros. Etiam maximus mauris eget sem varius, mollis ullamcorper metus porttitor. Aenean at elit sodales, rutrum ex tincidunt, molestie lorem. Donec in ante fermentum, pharetra dolor in, tempus nunc. Vivamus in lacinia lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Before diving into UX, I studied Landscape Architecture (unfinished) and worked as a freelance graphic designer from 2022 to 2024. My visual background helps me blend aesthetics with functionality in design.
+
+In addition to creative work, I was actively involved in a student organization at my faculty, serving as a member (2021) and later secretary (2022) of the Business & Partnership division in the Student Executive Board (BEM A IPB). This experience helped sharpen my teamwork, communication, and organizational skills—all of which support my growth in UX.
+
+Originally from Bandung, I’m now based in South Tangerang, Indonesia.
+
+Always eager to learn, collaborate, and design meaningful digital experiences.
+
 
