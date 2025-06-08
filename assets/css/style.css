@@ -17,3 +17,10 @@
 a.gentle-clicked {
   animation: gentle-bounce 0.3s ease-out; /* Shorter, smoother animation */
 }
+
+---
+---
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
