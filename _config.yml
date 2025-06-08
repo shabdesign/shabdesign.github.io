@@ -43,6 +43,10 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-polyglot
+  - jekyll-postcss
+
+postcss:
+  cache: false
 
 ##
 # Polyglot configuration
