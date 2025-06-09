@@ -1,7 +1,6 @@
 title: Shab Design
 logo: /assets/images/Logo Shab-Design Brown-02.svg
 baseurl: /awesome-jekyll-theme
-markdown: kramdown
 author:
   name: Shabrina
   email: shabrina.m13@gmail.com
@@ -31,7 +30,6 @@ contact_channels:
   email: "shabrina.m13@gmail.com"
   github: "https://github.com/shabdesign"
   telegram: "https://t.me/shab_design"
-  x: "https://x.com/bekwerja"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
   # mastodon: "https://lile.cl/"
@@ -43,10 +41,6 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-polyglot
-  - jekyll-postcss
-
-postcss:
-  cache: false
 
 ##
 # Polyglot configuration
