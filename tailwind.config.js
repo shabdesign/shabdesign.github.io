@@ -4,8 +4,7 @@ module.exports = {
   content: [
     '*.html',
     '_layouts/**/*.html',
-    '_includes/**/*.html',
-     '**/*.md'
+    '_includes/**/*.html'
   ],
   theme: {
     fontFamily: {
