@@ -1,15 +1,12 @@
 ---
 layout: home
-title: Home
-description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
+title: Home Page
 image: /assets/images/main.avif
 main_content: >
   # Welcome to Shab Design's Space
 
 
-  **A Jounal and Portfolio of My Work**. I'll post my some of best projects, from the context to the final result. Kindly contact me if you're interested to work with me. I do **UX-UI Research, UX-UI Design, and Graphic Design**.
+  **A Jounal and Portfolio of My Work**. I'll post some of my best projects, from the context to the final result. Kindly contact me if you're interested to work with me. I do **UX-UI Research, UX-UI Design, and Graphic Design**.
   
 footer: true
 permalink: /
