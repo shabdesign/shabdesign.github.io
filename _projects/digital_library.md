@@ -52,7 +52,8 @@ As it shown in the picture, this survey revealed extensive data. Among the many 
 ### Desk Research (Competitive analysis)
 ![Desk Survey](../assets/images/DigitaLibrary_CompetitiveAnalysis.png)
 
-While the picture provides a simplified overview using 'Yes', 'Limited', and 'No' indicators, the competitive analysis involved comprehensive qualitative assessments for each feature and criterion. The following highlights summarize the key insights identified from the analysis.
+While the picture provides a simplified overview using 'Yes', 'Limited', and 'No' indicators, the competitive analysis involved comprehensive qualitative assessments for each feature and criterion. The following highlights summarize the key insights identified from the analysis:
+
 Most platforms have already established basic functionalities such as login access, journal collections, and search filters. However, inconsistencies remain in terms of user accessibility, UI clarity, and supporting features such as personalization, citation tools, and visual design. Moreover, considering that many survey respondents indicated academic websites and learning videos as their preferred learning resources, integration with tools like Google Scholar and LMS platforms could offer a strategic advantage. **These findings highlight opportunities for improvement by focusing on clearer interfaces, more intuitive search experiences, broader public accessibility, and stronger academic tool integration.**
 
 ## User Persona
