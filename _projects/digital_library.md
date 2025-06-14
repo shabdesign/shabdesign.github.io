@@ -57,8 +57,9 @@ While the picture provides a simplified overview using 'Yes', 'Limited', and 'No
 Most platforms have already established basic functionalities such as login access, journal collections, and search filters. However, inconsistencies remain in terms of user accessibility, UI clarity, and supporting features such as personalization, citation tools, and visual design. Moreover, considering that many survey respondents indicated academic websites and learning videos as their preferred learning resources, integration with tools like Google Scholar and LMS platforms could offer a strategic advantage. **These findings highlight opportunities for improvement by focusing on clearer interfaces, more intuitive search experiences, broader public accessibility, and stronger academic tool integration.**
 
 ## User Persona
-![Persona1](../assets/images/DigitaLibrary_Persona1.png)
-![Persona2](../assets/images/DigitaLibrary_Persona2.png)
+![UserPersona1](../assets/images/DigitaLibrary_Persona1.png)
+
+![UserPersona2](../assets/images/DigitaLibrary_Persona2.png)
 
 Two key user personas were developed to represent the primary users of the digital library platform. **Amelia**, a sixth-semester Business Management student, represents users who prioritize efficient search and access to academic resources, but often feel overwhelmed by outdated interfaces and poorly organized information systems. Meanwhile, **Raka**, a fourth-semester Computer Science student, reflects users who are more tech-savvy but frustrated by the clunky design and lack of responsiveness across devices. These personas help highlight different user needs, frustrations, and expectations, forming the foundation for user-centered design decisions throughout the project.
 
