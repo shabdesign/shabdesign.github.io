@@ -68,7 +68,8 @@ Both user personas served as the foundation for the ideation process. I aimed to
 
 ## User Flows
 ![UserPersona2](../assets/images/DigitalLibrary/Flow1.png)
-![UserPersona2](../assets/images/DigitalLibrary/Flow1.png)
+![UserPersona2](../assets/images/DigitalLibrary/Flow2.png)
+![UserPersona2](../assets/images/DigitalLibrary/Flow3.png)
 
 I created three user flows that represent key user activities within the digital library platform: finding and reading digital collections, reserving printed materials, and accessing external academic resources. These flows help map out the core interactions and guide the structure of the interface design.
 
