@@ -42,6 +42,8 @@ To complement the user insights, a comparative review of four selected universit
 ## Findings & Insights
 ### User Research (Survey)
 ![Wireframe](../assets/images/Digilib-UserSurvey.svg)
+![Wireframe](../assets/images/DigitalLibrary-UserSurvey.png)
+
 Among the many findings gathered through the survey, these are the key insights that guided the design direction:
 
 - **Demographic & Psychographic:** Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.
