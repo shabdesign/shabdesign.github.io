@@ -6,7 +6,7 @@ category: Design
 author: Me
 ---
 
-I created this website as a manifestation of my enthusiasm for entering the world of UI/UX design. Although I began learning the basics last year, most of it was purely theoretical—I had barely touched Figma. Even though I had explored several types of design before, something always felt missing. That made it hard for me to stay motivated or take any bold steps.
+I created this website as a manifestation of my enthusiasm for entering the world of UI/UX design. Although I began learning the basics last year, most of it was purely theoretical—I had barely touched Figma. I had explored several types of art and design before, but something always felt missing. That made it hard for me to stay motivated or take any bold steps.
 
 A few months ago, I decided to shift direction. UI/UX design came back to mind, and the more I explored, the more captivated I became. At the end of May, I began studying UI/UX more intensively, and I finally felt excited. Starting in June, I’ve been working on personal projects and updating them here on this website. I hope that in the coming months, I can continue developing my skills and be ready to take on meaningful jobs and projects.
 
