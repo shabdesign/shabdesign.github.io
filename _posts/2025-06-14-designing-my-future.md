@@ -2,7 +2,7 @@
 layout: post
 title: Designing My Future, One Step at a Time!
 image: "../assets/images/Logo Shab-Design Brown-02.svg"
-category: Jekyll
+category: Design, Personal
 author: Me
 ---
 
