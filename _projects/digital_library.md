@@ -43,9 +43,11 @@ To complement the user insights, a comparative review of four selected universit
 ### User Research (Survey)
 <img src="assets/images/Digilib-UserSurvey.svg" alt="User Survey" width="600">
 Among the many findings gathered through the survey, these are the key insights that guided the design direction:
+
 - **Demographic & Psychographic:** Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.
 - **User Experience:** Users primarily use the platform to read theses and journals, but often experience confusion due to outdated and inconsistent interfaces. The search function is widely used, yet the satisfaction level remains average due to unclear filtering and navigation systems. Many users feel overwhelmed by poor layout structure and lack of visual guidance.
 - **User Expectations:** There is a strong demand for intuitive navigation, responsive design, and integration with external platforms like Google Scholar and LMS. Users expect a modern digital library with precise search, clear information structure, and ease of access across devices.
+
 ### Desk Research (Competitive analysis)
 
 ## User Persona
