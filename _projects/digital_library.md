@@ -41,7 +41,7 @@ To complement the user insights, a comparative review of four selected universit
 
 ## Findings & Insights
 ### User Research (Survey)
-![UserSurvey](../assets/images/DigitalLibrary-UserSurvey.png)
+![UserSurvey](../assets/images/DigitalLibrary/UserSurvey.png)
 
 As it shown in the picture, this survey revealed extensive data. Among the many findings gathered through the survey, these are the key insights that guided the design direction:
 
@@ -50,19 +50,27 @@ As it shown in the picture, this survey revealed extensive data. Among the many 
 - **User Expectations:** There is a strong demand for intuitive navigation, responsive design, and integration with external platforms like Google Scholar and LMS. Users expect a modern digital library with precise search, clear information structure, and ease of access across devices.
 
 ### Desk Research (Competitive analysis)
-![Desk Survey](../assets/images/DigitaLibrary_CompetitiveAnalysis.png)
+![Desk Survey](../assets/images/DigitalLibrary/CompetitiveAnalysis.png)
 
 While the picture provides a simplified overview using 'Yes', 'Limited', and 'No' indicators, the competitive analysis involved comprehensive qualitative assessments for each feature and criterion. The following highlights summarize the key insights identified from the analysis:
 
 Most platforms have already established basic functionalities such as login access, journal collections, and search filters. However, inconsistencies remain in terms of user accessibility, UI clarity, and supporting features such as personalization, citation tools, and visual design. Moreover, considering that many survey respondents indicated academic websites and learning videos as their preferred learning resources, integration with tools like Google Scholar and LMS platforms could offer a strategic advantage. **These findings highlight opportunities for improvement by focusing on clearer interfaces, more intuitive search experiences, broader public accessibility, and stronger academic tool integration.**
 
 ## User Persona
-![UserPersona1](../assets/images/DigitalLibrary_Persona1.png)
-![UserPersona2](../assets/images/DigitalLibrary_Persona2.png)
+![UserPersona1](../assets/images/DigitalLibrary/Persona1.png)
+![UserPersona2](../assets/images/DigitalLibrary/Persona2.png)
 
 Two key user personas were developed to represent the primary users of the digital library platform. **Amelia**, a sixth-semester Business Management student, represents users who prioritize efficient search and access to academic resources, but often feel overwhelmed by outdated interfaces and poorly organized information systems. Meanwhile, **Raka**, a fourth-semester Computer Science student, reflects users who are more tech-savvy but frustrated by the clunky design and lack of responsiveness across devices. These personas help highlight different user needs, frustrations, and expectations, forming the foundation for user-centered design decisions throughout the project.
 
+![UserPersona2](../assets/images/DigitalLibrary/Ideation.png)
+
+Both user personas served as the foundation for the ideation process. I aimed to develop solutions that were both comprehensive and concise, focusing on the users’ core needs. As a result, the design priorities were identified as follows: **building a responsive website accessible via both desktop and mobile, ensuring a consistent and easy-to-learn layout, and presenting content with clear hierarchy and well-organized information structure**.
+
 ## User Flows
+![UserPersona2](../assets/images/DigitalLibrary/Flow1.png)
+![UserPersona2](../assets/images/DigitalLibrary/Flow1.png)
+
+I created three user flows that represent key user activities within the digital library platform: finding and reading digital collections, reserving printed materials, and accessing external academic resources. These flows help map out the core interactions and guide the structure of the interface design.
 
 ## Wireframe
 
