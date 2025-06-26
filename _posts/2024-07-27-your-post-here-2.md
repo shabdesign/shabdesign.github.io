@@ -1,59 +1,15 @@
 ---
 layout: post
-title: Lorem markdownum causa finita rector cura uterque
+title: First UI Design - A Lesson in Slowing Down
 image: "https://picsum.photos/500/300"
-category: Lorem Ipsum
+category: Design Journey
 author: Me
 ---
 
-Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
-totaque pugnat at vincar corpore ad exiguo canisve. Est tuo coniugis siquis
-bracchia exitio quibus! Et pater poeniceam numen tenebrisque quem incubuit hic
-damus tumere descendere.
+I just created my very first UI/UX design, and it’s been a long time since I last went through a complete design process after taking a break. I was so excited—maybe too excited—that I rushed into things without taking the time to explore ideas properly. I built the wireframe in just three hours, and completed the prototype in three days. But as I neared the finish line, I realized that my design didn’t align with its original purpose. The visual style felt outdated and didn’t reflect the direction I was aiming for.
 
-Quam carpitur, porrigit gignis frendens saxea, [at](http://aere-myrrha.net/)
-poma ingentia vacet credentes. Namque avertere notatum placandam atque,
-_miserrima Astyanax_ dieque ut sinat Cereris: nec.
+After reflecting for a while, I decided to go back to square one and start again from the wireframe. This time, I gave myself one full day to explore ideas, another day to sketch rough concepts on paper, and one more day to refine the wireframe in Figma. I then spent a full week building the prototype.
 
-## Nec non stirpe cratera tibi non totidemque
+Looking back, I’m grateful that I took a step—or two—back. This version of the design feels much more aligned with its purpose, and I’m quite happy with how it turned out. I conducted a round of validation yesterday and received several positive responses, although there’s still plenty of room for improvement. 
 
-Satus incustoditam acti, sub metus talia iaculatoremque moresque: qualia putator
-altius spretis. Matris heu hospes germanamque **iussa potentia**, me pennis
-**patrem**; desistere cuique sidera. Denique quam perde, cum tristia adspergit
-baculisque et longa sub.
-
-Aer honores bisque quod quas alis ramis incidit olim sistitur, en. Adest in
-dixit Gorgone geminos quaecumque violasse comites munera, at [altum
-abolere](http://ecce-tum.net/magni-mota)! Subiti ver turbata doctae quo vidit et
-aequoris cuti. Cum dea hoc ante aura, ego niteant densi Picus in donec
-_sacravere_. Numina medium at suo viroque aeque miserabile fugio, bene?
-
-## Epops haec
-
-Spatium popularis communis modo ignavis, cetera sceptrum formae erat, unda [tibi
-hos](http://cum.net/habemus.html), maiora decor. Ducunt amor quid in arbore quis
-ardere qui rupe dominum te a!
-
-## Corporeasque sunt
-
-Pharetras Ladon, mortis invidiae repugnat et credens confundas post _porrigit_,
-radiantia qui aera poscuntque _ipse_, sed. Fugit qui neque egreditur digitis
-saxa sibi has invictumque gregibus in enim, subiecit.
-
-> Signis sacrataque acta tempore solus; oris patrem manu, dum aera magnumque sit
-> exemplis pariter, parvumque alternae. Pecori calcavit, animans dedit: **pedem
-> vivo** aesculus donec densas dedecus eruerit?
-
-## Inquit occupat coercet negant circumdata ecce Aeaciden
-
-Dente carpit pudici nescio inde quae, orbe vidit tellure caelo, dabat acer,
-haec. Quid frustraque illic [aspexisse](http://cereris-et.io/defluit) virgo
-exstinctum Lotis et causa crimine redeunt se aethera color nisi nec repurgat
-Ixionis discordia morsus.
-
-An oravit rogis amor, madescit [tacitorum tu](http://rigidis.io/que.html)
-turpius paludes. Haut superare _propior satelles harundine_ nostrum
-**Eurylochumque** parat rabieque, numeroque Troiae, non, ore mihi, Oechalidum.
-_Essem quem nunc_ omnia limite, tu narrat pennae et senes neque, in diebus
-pugnat. Aurae enim lenta agresti velut relictis, hos luctus Sminthea _cadunt
-intonsum_ volenti spatio, speciosam secuta si. Ingenii nullo orientis, secuta!
+Still, it’s far better than pushing forward with a design that completely missed its goal.
