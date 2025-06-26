@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First UI Design - A Lesson in Slowing Down
-image: "https://picsum.photos/500/300"
+image: "https://shabdesign.github.io/assets/images/blogs/slowingdown.png"
 category: Design Journey
 author: Me
 ---
