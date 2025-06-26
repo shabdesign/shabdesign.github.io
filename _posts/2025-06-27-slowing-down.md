@@ -2,7 +2,7 @@
 layout: post
 title: My First UI/UX Design - A Lesson in Slowing Down
 image: "https://picsum.photos/500/300"
-category: Blog
+categories: Blog
 author: Me
 ---
 
