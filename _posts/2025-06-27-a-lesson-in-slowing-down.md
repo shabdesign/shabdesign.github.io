@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First UI Design - A Lesson in Slowing Down
-image: ".../assets/images/blogs/slowingdown.png"
+image: "../assets/images/blogs/slowingdown.png"
 category: Design Journey
 author: Me
 ---
