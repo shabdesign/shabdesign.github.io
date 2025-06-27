@@ -2,7 +2,7 @@
 layout: project
 title: Students & Digital Libraries - From Insight To Interface
 description: A UX case study to improve campus digital library experiences for university students
-image: 'https://picsum.photos/800/400'
+image: '../assets/images/DigitalLibrary/Mock-Up1.png'
 tags:
   - UIdesign
   - UXdesign
