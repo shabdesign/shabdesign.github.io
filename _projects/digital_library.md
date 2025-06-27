@@ -11,73 +11,68 @@ tags:
 ---
 
 ## Background
-Digital platforms are a primary need for students in their learning activities. Academic books and articles need to be accessible anytime, anywhere. Physical book lending systems should also be manageable online. **While some universities have introduced digital libraries, most of them still have poor usability and outdated interface**. As a result, many students are unaware of or do not fully understand the benefits of digital libraries. According to the Higher Education Database (PDDikti), there were 9.32 million active students in Indonesia in 2025, yet only around 1.5 million have used their campus digital library. **This indicates a gap between the demand for and the use of digital technology, especially digital library, in academic environments.** 
+Digital platforms are a primary need for students in their learning activities. Academic books and articles must be readily accessible anytime and anywhere. While some universities have introduced digital libraries, most of them still have poor usability and outdated interfaces. As a result, many students are unaware of or do not fully understand the benefits of digital libraries. According to the Indonesian Higher Education Database (PDDikti), there were 9.32 million active students in Indonesia in 2025. However, only around 1.5 million have used their campus digital library. **This indicates a gap between the demand for and the actual use of digital libraries in academic environments.** 
 
 ## Objectives
-- **Identify usability issues** — Evaluate interface pain points from user interviews and heuristic analysis.
-- **Understand student behavior** — Analyze how students currently interact with digital library tools.
-- **Design improved UI** — Create wireframes and UI concepts focused on accessibility and simplicity.
-- **Prototype & test** — Validate design through usability testing and iteration.
+-	**Understand student behavior** — Analyze how students interact with digital libraries.
+-	**Identify usability issues** — Evaluate interface pain points from the user research.
+-	**Design improved UI** — Create wireframes and UI concepts based on students’ needs
+-	**Prototype & validation** — Validate design through usability testing and iteration.
 
 ## My Role
-This is my **first solo project**. I took on the whole role **from research planningto interface design**.
+This is my first solo project. I took on the whole role from research planning to interface design.
 
 ## Timeline
-- **Project planning** — June 1, 2025
-- **Research planning** — June 2, 2025
-- **User & Desk Research** — June 3-9, 2025
-- **Quantitative & Competitive analysis** — June 10-12, 2025
-- **User Persona & User Flows** - June 13-15, 2025
-- **Wireframe & Prototype** — June 16-25, 2025
-- **Validation & Feedback** — June 26-28, 2025
-- **Final Result** — June 29-30, 2025
+- **Planning & preparation** — June 1-2, 2025
+- **Research** — June 3-9, 2025
+- **Analysis & Synthesis** — June 10, 2025
+- **User Persona** — June 11, 2025
+- **User Flow & Low-Fi Wireframe** — Jun 12, 2025
+- **Mid-Fi Prototype** — June 13-19, 2025
+- **Validation & Feedback** — June 20-22, 2025
+- **Hi-Fi Prototype** — June 23-29, 2025
+- **Publication** — June 30, 2025
 
-## Research Methods
-  This project employs a **mixed-method approach** that combines **quantitative user research (survey) and dessk research (competitive analysis)**  to explore and improve the user experience of campus digital library platforms in Indonesia.
+## Research
+  This project employs a **mixed-method approach** that combines **quantitative user research (survey) and dessk research (competitive analysis)**.
 ### User Research (Survey)
-A quantitative survey was conducted to gather insights from Indonesian university students who have used campus digital libraries. It explored user demographics, behavior, perceptions, and expectations. **The survey was distributed online via social media using convenience sampling with a minimum target of 164 respondents (Slovin, confidence level 80%, margin of error 5%)**.
+A quantitative survey was conducted to gather insights from Indonesian university students who have used campus digital libraries. 174 valid responses were analyzed from a total of 227 collected during a 7-day survey period. After data cleaning, the final sample meets an estimated 80% confidence level, which is sufficient for generating actionable UX insights. Among the many findings gathered through the survey, these are the key insights that guided the design direction:
+- **Demographic & Psychographic:** Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.
+- **User Experience:** Users primarily use the platform to read theses and journals, but often experience confusion due to outdated and inconsistent interfaces. The search function is widely used, yet the satisfaction level remains average due to unclear filtering and navigation systems.
+- **User Expectations:** There’s a strong demand for a modern digital library with precise search capabilities, a clear information structure, and ease of access to learning resources, including external resources such as LMS and Google Scholar.
 ### Desk Research (Competitive analysis)
 To complement the user insights, a comparative review of four selected university digital library platforms was conducted: **BINUS University, Universitas Pendidikan Indonesia (UPI), Universitas Indonesia (UI), and Universitas Terbuka (UT)**. These platforms were selected based on a combination of user representation in the survey and their prominence in digital library implementation.
-
-## Findings & Insights
-### User Research (Survey)
-![UserSurvey](../assets/images/DigitalLibrary/UserSurvey.png)
-
-As it shown in the picture, this survey revealed extensive data. Among the many findings gathered through the survey, these are the key insights that guided the design direction:
-
-- **Demographic & Psychographic:** Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.
-- **User Experience:** Users primarily use the platform to read theses and journals, but often experience confusion due to outdated and inconsistent interfaces. The search function is widely used, yet the satisfaction level remains average due to unclear filtering and navigation systems. Many users feel overwhelmed by poor layout structure and lack of visual guidance.
-- **User Expectations:** There is a strong demand for intuitive navigation, responsive design, and integration with external platforms like Google Scholar and LMS. Users expect a modern digital library with precise search, clear information structure, and ease of access across devices.
-
-### Desk Research (Competitive analysis)
-![Desk Survey](../assets/images/DigitalLibrary/CompetitiveAnalysis.png)
-
-While the picture provides a simplified overview using 'Yes', 'Limited', and 'No' indicators, the competitive analysis involved comprehensive qualitative assessments for each feature and criterion. The following highlights summarize the key insights identified from the analysis:
-
-Most platforms have already established basic functionalities such as login access, journal collections, and search filters. However, inconsistencies remain in terms of user accessibility, UI clarity, and supporting features such as personalization, citation tools, and visual design. Moreover, considering that many survey respondents indicated academic websites and learning videos as their preferred learning resources, integration with tools like Google Scholar and LMS platforms could offer a strategic advantage. **These findings highlight opportunities for improvement by focusing on clearer interfaces, more intuitive search experiences, broader public accessibility, and stronger academic tool integration.**
+Most platforms have already established basic functionalities such as login access, journal collections, and search filters. However, inconsistencies persist in terms of user accessibility, UI clarity, and supporting features, including personalization, citation tools, and visual design. Moreover, considering that many survey respondents indicated academic websites and learning videos as their preferred learning resources, integration with tools like Google Scholar and LMS platforms could offer a strategic advantage. **These findings highlight opportunities for improvement by focusing on clearer interfaces, more intuitive search experiences, broader public accessibility, and stronger academic tool integration.**
 
 ## User Persona
-![UserPersona1](../assets/images/DigitalLibrary/Persona1.png)
-![UserPersona2](../assets/images/DigitalLibrary/Persona2.png)
+Two key user personas were developed to represent the primary users of the digital library platform and the existing gaps in current digital libraries. **Amelia** represents users who prioritize efficient search and access to academic resources but often feel overwhelmed by outdated interfaces and poorly organized information systems. Meanwhile, **Raka** reflects users who are more tech-savvy but frustrated by the clunky design and lack of learning resources.
+**UNIVIA** (a fictional university) was created to represent Indonesian universities, as this project was based on the experiences of Indonesian university students. The logo was made to make this university even more realistic. These three colors were chosen to create a professional (blue), vibrant and attractive (yellow), while remaining balanced and elegant (grey) identity.
 
-Two key user personas were developed to represent the primary users of the digital library platform. **Amelia**, a sixth-semester Business Management student, represents users who prioritize efficient search and access to academic resources, but often feel overwhelmed by outdated interfaces and poorly organized information systems. Meanwhile, **Raka**, a fourth-semester Computer Science student, reflects users who are more tech-savvy but frustrated by the clunky design and lack of responsiveness across devices. These personas help highlight different user needs, frustrations, and expectations, forming the foundation for user-centered design decisions throughout the project.
-
-![UserPersona2](../assets/images/DigitalLibrary/Ideation.png)
-
-Both user personas served as the foundation for the ideation process. I aimed to develop solutions that were both comprehensive and concise, focusing on the users’ core needs. As a result, the design priorities were identified as follows: **building a responsive website accessible via both desktop and mobile, ensuring a consistent and easy-to-learn layout, and presenting content with clear hierarchy and well-organized information structure**.
+## Ideation
+Both user personas served as the foundation for the ideation process. As a result, the design priorities were identified as follows: **Ensuring a consistent and easy-to-learn layout, providing extensive and diverse learning resources, and presenting content with a clear hierarchy and well-organized information structure.**
+To achieve this goal, three main functions will be created, including: **(1) online and offline access to digital collections, (2) printed collection reservations, and (3) access to external integrated resources.**
 
 ## User Flows
-![UserPersona2](../assets/images/DigitalLibrary/Flow1.png)
-![UserPersona2](../assets/images/DigitalLibrary/Flow2.png)
-![UserPersona2](../assets/images/DigitalLibrary/Flow3.png)
-
-I created three user flows that represent key user activities within the digital library platform: finding and reading digital collections, reserving printed materials, and accessing external academic resources. These flows help map out the core interactions and guide the structure of the interface design.
+Three user Flows were developed to visualize the key activities users may perform in the digital library, including browsing and accessing digital collections, making printed collection reservations, and exploring external academic resources. These flows helped identify potential pain points and ensure a smooth user experience.
 
 ## Wireframe
+Low-fidelity wireframes were created with a focus on the functionality of each step identified in the user flows. At this stage, the primary emphasis was placed on content structure and clarity of navigation.
 
-## Prototype
+## Mid-Fi Prototype
+I use this mid-fidelity prototype, which has most key functions already active, for the initial validation. The design adopts UNIVIA’s logo colors and shapes to reflect the university’s identity. The homepage allows students to explore academic resources easily. Features like “Last Seen,” “For You,” and “Popular” are designed to support quick access and personalized discovery. “Just In” promotes newly added collections.
+A standout feature is the printed collection reservation system, which caters to students with tight schedules. The form is designed to be simple for ease of use. Advanced filters and external resources enhance the search experience, directing users to reliable sources. At the bottom of each page, a “Browse More” section encourages continued exploration. **Overall, the prototype emphasizes efficiency and relevance in accessing learning materials.**
 
 ## Validation & Feedbacks
+To validate the design, I conducted one direct usability testing session and distributed an online validation form to additional participants. The validation focused on key user flows, including exploring digital collections, reserving printed materials, and accessing external resources. Feedback was collected on visual clarity, ease of navigation, and the usefulness of features. Although there are numerous positive responses, several complaints have been received. **These insights gathered helped identify areas for improvement, such as simplifying the interface, refining content hierarchy, and enhancing the clarity of information cards.**
+
+## Hi-Fi Prototype
+The high-fidelity prototype was developed based on the insights gained from the design validation process. Aesthetic elements were simplified, replacing decorative visuals with clean and intuitive icons. The information cards for each collection have been redesigned to appear more structured and informative. The advanced filter feature was also refined, now allowing users to select 1 to 3 filter criteria more efficiently. Additional unresolved details from the earlier prototype have also been addressed. For instance, the reservation form now includes a proper date selector, ensuring the form is functionally complete and easier to understand.
+The most significant transformation occurred on the Reservation Details page. Previously, this page was located under the 'Reservations' section, but it lacked a clear hierarchy and placement. In the current design, the Reservations section is now clearly situated under 'My Account', displaying categorized reservation history—To Pick-Up, To Return, Completed, and Canceled. 
+
+## Conclusion
+This project examines how digital libraries can enhance their service to students by improving accessibility, clarity, and efficiency in locating learning resources. Through user research, competitive analysis, and usability testing, I identified key pain points and expectations that guided the design of a digital library platform, one that is not only functional but also intuitive and visually cohesive.
+From low- to high-fidelity prototypes, the design evolved to prioritize clear structure and practical features, including printed collection reservation, personalized recommendations, and integration with external academic resources. Usability testing provided valuable feedback that shaped the final design to support students’ educational journeys better, making it more efficient, clear, and accessible.
+
 ---
 
 Thank you
