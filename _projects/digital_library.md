@@ -38,7 +38,7 @@ This is my first solo project. I took on the whole role from research planning t
 ## Research
   This project employs a **mixed-method approach** that combines **quantitative user research (survey) and dessk research (competitive analysis)**.
 ### User Research (Survey)
-<img src="../assets/images/DigitalLibraries/UserResearch.png" alt="UserResearch" width="500">
+<img src="../assets/images/DigitalLibraries/UserResearch.png" alt="UserResearch" width="400">
 <div style="text-align: justify;">
   A quantitative survey was conducted to gather insights from Indonesian university students who have used campus digital libraries. 174 valid responses were analyzed from a total of 227 collected during a 7-day survey period. After data cleaning, the final sample meets an estimated 80% confidence level, which is sufficient for generating actionable UX insights. Among the many findings gathered through the survey, these are the key insights that guided the design direction:</div>
 <div style="text-align: justify;">
@@ -49,7 +49,7 @@ This is my first solo project. I took on the whole role from research planning t
   - <strong>User Expectations:</strong> There’s a strong demand for a modern digital library with precise search capabilities, a clear information structure, and ease of access to learning resources, including external resources such as LMS and Google Scholar.</div>
 
 ### Desk Research (Competitive analysis)
-<img src="../assets/images/DigitalLibraries/DeskResearch.png" alt="DeskResearch" width="600">
+<img src="../assets/images/DigitalLibraries/DeskResearch.png" alt="DeskResearch" width="400">
 <div style="text-align: justify;">
   To complement the user insights, a comparative review of four selected university digital library platforms was conducted: <strong>BINUS University, Universitas Pendidikan Indonesia (UPI), Universitas Indonesia (UI), and Universitas Terbuka (UT)</strong>. These platforms were selected based on a combination of user representation in the survey and their prominence in digital library implementation.</div>
 <div style="text-align: justify;">
@@ -57,11 +57,13 @@ This is my first solo project. I took on the whole role from research planning t
 </div>
 
 ## User Persona
+<img src="../assets/images/DigitalLibraries/Persona1.png" alt="Persona1" width="400">
+<img src="../assets/images/DigitalLibraries/Persona2.png" alt="Persona2" width="400">
 <div style="text-align: justify;">
   Two key user personas were developed to represent the primary users of the digital library platform and the existing gaps in current digital libraries. <strong>Amelia</strong> represents users who prioritize efficient search and access to academic resources but often feel overwhelmed by outdated interfaces and poorly organized information systems. Meanwhile, <strong>Raka</strong> reflects users who are more tech-savvy but frustrated by the clunky design and lack of learning resources. </div>
-  
+<img src="../assets/images/DigitalLibraries/LogoUnivia.png" alt="LogoUnivia" width="400">
 <div style="text-align: justify;">
-  <strong>UNIVIA</strong>UNIVIA is a fictional university that was created to represent Indonesian universities, as this project was based on the experiences of Indonesian university students. The logo was made to make this university even more realistic. These three colors were chosen to create a professional (blue), vibrant and attractive (yellow), while remaining balanced and elegant (grey) identity.</div>
+  <strong>UNIVIA</strong> is a fictional university that was created to represent Indonesian universities, as this project was based on the experiences of Indonesian university students. The logo was made to make this university even more realistic. These three colors were chosen to create a professional (blue), vibrant and attractive (yellow), while remaining balanced and elegant (grey) identity.</div>
 
 ## Ideation
 <div style="text-align: justify;">
