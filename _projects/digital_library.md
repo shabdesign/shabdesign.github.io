@@ -2,7 +2,7 @@
 layout: project
 title: Students & Digital Libraries - From Insight To Interface
 description: A UX case study to improve campus digital library experiences for university students
-image: '../assets/images/DigitalLibrary/Mock-Up1.png'
+image: '../assets/images/DigitalLibraries/Cover.png'
 tags:
   - UIdesign
   - UXdesign
@@ -36,12 +36,14 @@ This is my first solo project. I took on the whole role from research planning t
 ## Research
   This project employs a **mixed-method approach** that combines **quantitative user research (survey) and dessk research (competitive analysis)**.
 ### User Research (Survey)
+<img src="../assets/images/DigitalLibraries/UserResearch.png" alt="UserResearch" width="400">
 A quantitative survey was conducted to gather insights from Indonesian university students who have used campus digital libraries. 174 valid responses were analyzed from a total of 227 collected during a 7-day survey period. After data cleaning, the final sample meets an estimated 80% confidence level, which is sufficient for generating actionable UX insights. Among the many findings gathered through the survey, these are the key insights that guided the design direction:
 - **Demographic & Psychographic:** Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.
 - **User Experience:** Users primarily use the platform to read theses and journals, but often experience confusion due to outdated and inconsistent interfaces. The search function is widely used, yet the satisfaction level remains average due to unclear filtering and navigation systems.
 - **User Expectations:** There’s a strong demand for a modern digital library with precise search capabilities, a clear information structure, and ease of access to learning resources, including external resources such as LMS and Google Scholar.
 
 ### Desk Research (Competitive analysis)
+<img src="../assets/images/DigitalLibraries/DeskResearch.png" alt="DeskResearch" width="600">
 To complement the user insights, a comparative review of four selected university digital library platforms was conducted: **BINUS University, Universitas Pendidikan Indonesia (UPI), Universitas Indonesia (UI), and Universitas Terbuka (UT)**. These platforms were selected based on a combination of user representation in the survey and their prominence in digital library implementation.
 Most platforms have already established basic functionalities such as login access, journal collections, and search filters. However, inconsistencies persist in terms of user accessibility, UI clarity, and supporting features, including personalization, citation tools, and visual design. Moreover, considering that many survey respondents indicated academic websites and learning videos as their preferred learning resources, integration with tools like Google Scholar and LMS platforms could offer a strategic advantage. **These findings highlight opportunities for improvement by focusing on clearer interfaces, more intuitive search experiences, broader public accessibility, and stronger academic tool integration.**
 
