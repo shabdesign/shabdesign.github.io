@@ -2,7 +2,7 @@
 layout: project
 title: Students & Digital Libraries - From Insight To Interface
 description: A UX case study to improve campus digital library experiences for university students
-image: '../assets/images/DigitalLibraries/Cover.png'
+image: '../assets/images/DigitalLibraries/AllMockUp.gif'
 tags:
   - UIdesign
   - UXdesign
@@ -52,6 +52,7 @@ This is my first solo project. I took on the whole role from research planning t
 <img src="../assets/images/DigitalLibraries/DeskResearch.png" alt="DeskResearch" width="400" style="display: block; margin: 2rem auto;">
 <div style="text-align: justify;">
   To complement the user insights, a comparative review of four selected university digital library platforms was conducted: <strong>BINUS University, Universitas Pendidikan Indonesia (UPI), Universitas Indonesia (UI), and Universitas Terbuka (UT)</strong>. These platforms were selected based on a combination of user representation in the survey and their prominence in digital library implementation.</div>
+
 <div style="text-align: justify;">
   Most platforms have already established basic functionalities such as login access, journal collections, and search filters. However, inconsistencies persist in terms of user accessibility, UI clarity, and supporting features, including personalization, citation tools, and visual design. Moreover, considering that many survey respondents indicated academic websites and learning videos as their preferred learning resources, integration with tools like Google Scholar and LMS platforms could offer a strategic advantage. <strong>These findings highlight opportunities for improvement by focusing on clearer interfaces, more intuitive search experiences, broader public accessibility, and stronger academic tool integration.</strong>
 </div>
@@ -91,16 +92,40 @@ This is my first solo project. I took on the whole role from research planning t
   To validate the design, I conducted one direct usability testing session and distributed an online validation form to additional participants. The validation focused on key user flows, including exploring digital collections, reserving printed materials, and accessing external resources. Feedback was collected on visual clarity, ease of navigation, and the usefulness of features. Although there are numerous positive responses, several complaints have been received. <strong>These insights gathered helped identify areas for improvement, such as simplifying the interface, refining content hierarchy, and enhancing the clarity of information cards.</strong></div>
 
 ## Hi-Fi Prototype
+<img src="../assets/images/DigitalLibraries/HiFiPrototype.png" alt="HiFiPrototype" width="400" style="display: block; margin: 2rem auto;">
 <div style="text-align: justify;">
-The high-fidelity prototype was developed based on the insights gained from the design validation process. Aesthetic elements were simplified, replacing decorative visuals with clean and intuitive icons. The information cards for each collection have been redesigned to appear more structured and informative. The advanced filter feature was also refined, now allowing users to select 1 to 3 filter criteria more efficiently. Additional unresolved details from the earlier prototype have also been addressed. For instance, the reservation form now includes a proper date selector, ensuring the form is functionally complete and easier to understand.
-The most significant transformation occurred on the Reservation Details page. Previously, this page was located under the 'Reservations' section, but it lacked a clear hierarchy and placement. In the current design, the Reservations section is now clearly situated under 'My Account', displaying categorized reservation history—To Pick-Up, To Return, Completed, and Canceled.</div>
+The high-fidelity prototype was developed based on the insights gained from the design validation process. Aesthetic elements were simplified, replacing decorative visuals with clean and intuitive icons. The information cards for each collection have been redesigned to appear more structured and informative. The advanced filter feature was also refined, now allowing users to select 1 to 3 filter criteria more efficiently. Additional unresolved details from the earlier prototype have also been addressed. For instance, the reservation form now includes a proper date selector, ensuring the form is functionally complete and easier to understand.</div>
+<div style="text-align: justify;">
+  The most significant transformation occurred on the Reservation Details page. Previously, this page was located under the 'Reservations' section, but it lacked a clear hierarchy and placement. In the current design, the Reservations section is now clearly situated under 'My Account', displaying categorized reservation history—To Pick-Up, To Return, Completed, and Canceled.</div>
 
+## Final Results
+From this project, the results were obtained in the form of a hi-fi prototype that has 4 main advantages.
+### Clear and Complete Information
+<img src="../assets/images/DigitalLibraries/INFORMATION.png" alt="INFORMATION" width="400" style="display: block; margin: 2rem auto;">
+<div style="text-align: justify;">
+  On the collection card, collection details, and reservation details, a clear, complete, and easy-to-read information structure was created. Each page also features a header with explanatory sentences and breadcrumbs, making it easier for users to understand the page's position and navigation.</div>
+  
+### Various Resources
+<img src="../assets/images/DigitalLibraries/RESOURCES.png" alt="RESOURCES" width="400" style="display: block; margin: 2rem auto;">
+<div style="text-align: justify;">
+  This digital library offers a range of learning resources, including not only campus digital collections but also printed collections that can be reserved online and integrated digital sources from external parties.</div>
+  
+### Simple Reservation System 
+<img src="../assets/images/DigitalLibraries/RESERVATION.png" alt="RESERVATION" width="400" style="display: block; margin: 2rem auto;">
+<div style="text-align: justify;">
+  Users only need to find the printed collection they want to borrow, fill out the reservation form, and make a pickup. The reservation form is designed to be as simple as possible, allowing users to select only the pickup location and time. On the 'my account' page, users can check reservations that need to be picked up, need to be returned, have been completed, and have been cancelled.</div>
+  
+### User-Centered Personalization
+<img src="../assets/images/DigitalLibraries/PERSONALIZATION.png" alt="PERSONALIZATION" width="400" style="display: block; margin: 2rem auto;">
+<div style="text-align: justify;">
+  The collection displayed on the main page has been adjusted to the user's 'last viewed' collection, and there are also 'for you' recommendations based on fields and keywords that users widely access. On the 'My Account' page, users can also see books that have been liked and marked.</div>
 
 ## Conclusion
 <div style="text-align: justify;">
   This project examines how digital libraries can enhance their service to students by improving accessibility, clarity, and efficiency in locating learning resources. Through user research, competitive analysis, and usability testing, I identified key pain points and expectations that guided the design of a digital library platform, one that is not only functional but also intuitive and visually cohesive.
-From low- to high-fidelity prototypes, the design evolved to prioritize clear structure and practical features, including printed collection reservation, personalized recommendations, and integration with external academic resources. Usability testing provided valuable feedback that shaped the final design to support students’ educational journeys better, making it more efficient, clear, and accessible.</div>
+  From low- to high-fidelity prototypes, the design evolved to prioritize clear structure and practical features, including printed collection reservation, personalized recommendations, and integration with external academic resources. Usability testing provided valuable feedback that shaped the final design to support students’ educational journeys better, making it more efficient, clear, and accessible.</div>
 
+## Notes
 <div style="text-align: justify;">
   This is my first UI/UX project, and I took on the entire process—from research planning to prototyping—within just one month. While the design and prototype are still far from perfect, I recognize there is much room for growth and improvement. I plan to revisit and refine this work in the future, incorporating deeper insights and evolving user needs. Therefore, I genuinely welcome any feedback, suggestions, or constructive criticism to help elevate both the user experience and design quality. You can view the prototype <a href="https://www.figma.com/proto/ds8K25mkbTMV8J01zQ8QPw/Students---Digital-Libraries--From-Insight-to-Interface?node-id=571-31840&p=f&t=qmD1bvb4gJJdegc3-1&scaling=scale-down-width&content-scaling=fixed&page-id=571%3A29597" target="_blank"> here</a> and contact me via <a href="https://www.linkedin.com/in/shabrina-m-654b7b194" target="_blank."> linkedin</a>. </div>
 
