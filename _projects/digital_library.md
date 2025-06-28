@@ -36,7 +36,7 @@ This is my first solo project. I took on the whole role from research planning t
 ## Research
   This project employs a **mixed-method approach** that combines **quantitative user research (survey) and dessk research (competitive analysis)**.
 ### User Research (Survey)
-<img src="../assets/images/DigitalLibraries/UserResearch.png" alt="UserResearch" width="400">
+<img src="../assets/images/DigitalLibraries/UserResearch.png" alt="UserResearch" width="500">
 A quantitative survey was conducted to gather insights from Indonesian university students who have used campus digital libraries. 174 valid responses were analyzed from a total of 227 collected during a 7-day survey period. After data cleaning, the final sample meets an estimated 80% confidence level, which is sufficient for generating actionable UX insights. Among the many findings gathered through the survey, these are the key insights that guided the design direction:
 - **Demographic & Psychographic:** Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.
 - **User Experience:** Users primarily use the platform to read theses and journals, but often experience confusion due to outdated and inconsistent interfaces. The search function is widely used, yet the satisfaction level remains average due to unclear filtering and navigation systems.
@@ -70,7 +70,10 @@ To validate the design, I conducted one direct usability testing session and dis
 
 ## Hi-Fi Prototype
 The high-fidelity prototype was developed based on the insights gained from the design validation process. Aesthetic elements were simplified, replacing decorative visuals with clean and intuitive icons. The information cards for each collection have been redesigned to appear more structured and informative. The advanced filter feature was also refined, now allowing users to select 1 to 3 filter criteria more efficiently. Additional unresolved details from the earlier prototype have also been addressed. For instance, the reservation form now includes a proper date selector, ensuring the form is functionally complete and easier to understand.
-The most significant transformation occurred on the Reservation Details page. Previously, this page was located under the 'Reservations' section, but it lacked a clear hierarchy and placement. In the current design, the Reservations section is now clearly situated under 'My Account', displaying categorized reservation history—To Pick-Up, To Return, Completed, and Canceled. 
+The most significant transformation occurred on the Reservation Details page. Previously, this page was located under the 'Reservations' section, but it lacked a clear hierarchy and placement. In the current design, the Reservations section is now clearly situated under 'My Account', displaying categorized reservation history—To Pick-Up, To Return, Completed, and Canceled.
+
+[View the prototype here](https://www.figma.com/proto/ds8K25mkbTMV8J01zQ8QPw/Students---Digital-Libraries--From-Insight-to-Interface?node-id=571-31840&p=f&t=qmD1bvb4gJJdegc3-1&scaling=scale-down-width&content-scaling=fixed&page-id=571%3A29597)
+
 
 ## Conclusion
 This project examines how digital libraries can enhance their service to students by improving accessibility, clarity, and efficiency in locating learning resources. Through user research, competitive analysis, and usability testing, I identified key pain points and expectations that guided the design of a digital library platform, one that is not only functional but also intuitive and visually cohesive.
