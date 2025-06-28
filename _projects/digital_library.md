@@ -11,7 +11,9 @@ tags:
 ---
 
 ## Background
-Digital platforms are a primary need for students in their learning activities. Academic books and articles must be readily accessible anytime and anywhere. While some universities have introduced digital libraries, most of them still have poor usability and outdated interfaces. As a result, many students are unaware of or do not fully understand the benefits of digital libraries. According to the Indonesian Higher Education Database (PDDikti), there were 9.32 million active students in Indonesia in 2025. However, only around 1.5 million have used their campus digital library. **This indicates a gap between the demand for and the actual use of digital libraries in academic environments.** 
+<div class="text-justify">
+  Digital platforms are a primary need for students in their learning activities. Academic books and articles must be readily accessible anytime and anywhere. While some universities have introduced digital libraries, most of them still have poor usability and outdated interfaces. As a result, many students are unaware of or do not fully understand the benefits of digital libraries. According to the Indonesian Higher Education Database (PDDikti), there were 9.32 million active students in Indonesia in 2025. However, only around 1.5 million have used their campus digital library. <strong>This indicates a gap between the demand for and the actual use of digital libraries in academic environments.<strong>
+  </div>
 
 ## Objectives
 -	**Understand student behavior** — Analyze how students interact with digital libraries.
