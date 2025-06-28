@@ -66,14 +66,17 @@ This is my first solo project. I took on the whole role from research planning t
   <strong>UNIVIA</strong> is a fictional university that was created to represent Indonesian universities, as this project was based on the experiences of Indonesian university students. The logo was made to make this university even more realistic. These three colors were chosen to create a professional (blue), vibrant and attractive (yellow), while remaining balanced and elegant (grey) identity.</div>
 
 ## Ideation
+<img src="../assets/images/DigitalLibraries/Ideation.png" alt="Ideation" width="400">
 <div style="text-align: justify;">
   Both user personas served as the foundation for the ideation process. As a result, the design priorities were identified as follows: <strong>Ensuring a consistent and easy-to-learn layout, providing extensive and diverse learning resources, and presenting content with a clear hierarchy and well-organized information structure</strong>. To achieve this goal, three main functions will be created, including: <strong>(1) online and offline access to digital collections, (2) printed collection reservations, and (3) access to external integrated resources.</strong></div>
 
 ## User Flows
+<img src="../assets/images/DigitalLibraries/UserFlow.png" alt="UserFlow" width="400">
 <div style="text-align: justify;">
   Three user Flows were developed to visualize the key activities users may perform in the digital library, including browsing and accessing digital collections, making printed collection reservations, and exploring external academic resources. These flows helped identify potential pain points and ensure a smooth user experience.</div>
 
 ## Wireframe
+<img src="../assets/images/DigitalLibraries/Wireframe.png" alt="Wireframe" width="400">
 <div style="text-align: justify;">
   Low-fidelity wireframes were created with a focus on the functionality of each step identified in the user flows. At this stage, the primary emphasis was placed on content structure and clarity of navigation.</div>
 
