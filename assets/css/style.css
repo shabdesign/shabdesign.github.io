@@ -29,15 +29,28 @@ img {
 }
 
 .prose h2 {
-  font-size: 1.875rem !important; /* text-3xl */
+  font-size: 1.875rem !important; 
   font-weight: 700;
   margin-top: 2rem;
   color: #0b2946 !important;
 }
 
 .prose h3 {
-  font-size: 1.25rem !important; /* text-xl */
+  font-size: 1.25rem !important; 
   font-weight: 600;
   margin-top: 1.5rem;
   color: #365f86 !important;
+}
+
+.prose h2 {
+  margin-bottom: 0.5rem;
+}
+
+.prose h3 {
+  margin-bottom: 0.5rem;
+}
+
+.prose h2 + p,
+.prose h3 + p {
+  margin-top: 0.3rem;
 }
