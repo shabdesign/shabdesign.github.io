@@ -26,8 +26,8 @@ p {
 
 .prose img {
   display: block;
-  margin-top: 0.3rem;
-  margin-bottom: 0.3rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
   margin-left: auto;
   margin-right: auto;
 }
