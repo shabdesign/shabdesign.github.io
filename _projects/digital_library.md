@@ -41,12 +41,12 @@ This is my first solo project. I took on the whole role from research planning t
 <img src="../assets/images/DigitalLibraries/UserResearch.png" alt="UserResearch" width="400" style="display: block; margin: 2rem auto;">
 <div style="text-align: justify;">
   A quantitative survey was conducted to gather insights from Indonesian university students who have used campus digital libraries. 174 valid responses were analyzed from a total of 227 collected during a 7-day survey period. After data cleaning, the final sample meets an estimated 80% confidence level, which is sufficient for generating actionable UX insights. Among the many findings gathered through the survey, these are the key insights that guided the design direction:</div>
-<div style="text-align: justify;">
-  - <strong>Demographic & Psychographic:</strong> Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.</div>
-<div style="text-align: justify;">
-  - <strong>User Experience:</strong> Users primarily use the platform to read theses and journals, but often experience confusion due to outdated and inconsistent interfaces. The search function is widely used, yet the satisfaction level remains average due to unclear filtering and navigation systems.</div>
-<div style="text-align: justify;">
-  - <strong>User Expectations:</strong> There’s a strong demand for a modern digital library with precise search capabilities, a clear information structure, and ease of access to learning resources, including external resources such as LMS and Google Scholar.</div>
+  - <strong>Demographic & Psychographic:</strong> 
+  <div style="text-align: justify;"> Most respondents are undergraduate students who frequently access academic materials through both desktop and mobile devices. They are goal-oriented and highly value quick and flexible access to relevant references.</div>
+  - <strong>User Experience:</strong> 
+  <div style="text-align: justify;">Users primarily use the platform to read theses and journals, but often experience confusion due to outdated and inconsistent interfaces. The search function is widely used, yet the satisfaction level remains average due to unclear filtering and navigation systems.</div>
+  - <strong>User Expectations:</strong> 
+  <div style="text-align: justify;"> There’s a strong demand for a modern digital library with precise search capabilities, a clear information structure, and ease of access to learning resources, including external resources such as LMS and Google Scholar.</div>
 
 ### Desk Research (Competitive analysis)
 <img src="../assets/images/DigitalLibraries/DeskResearch.png" alt="DeskResearch" width="400" style="display: block; margin: 2rem auto;">
