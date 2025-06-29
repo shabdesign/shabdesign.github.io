@@ -19,6 +19,8 @@ a.gentle-clicked {
 }
 
 p {
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
   text-align: justify;
 }
 
@@ -47,10 +49,11 @@ img {
 }
 
 .prose h3 {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.5rem !important; 
 }
 
 .prose h2 + p,
 .prose h3 + p {
-  margin-top: 0.3rem;
+  margin-top: 0.3rem !important;
 }
+
