@@ -29,16 +29,15 @@ img {
 }
 
 h2 {
-  font-size: 2rem;
-  font-weight: bold;
-  border-left: 4px solid #00569d;
-  padding-left: 1rem;
+  font-size: 1.875rem; /* text-3xl */
+  font-weight: 700;
   margin-top: 2rem;
+  color: #00569d;
 }
 
 h3 {
-  font-size: 1.25rem;
-  font-style: italic;
-  color: #90b1db;
+  font-size: 1.25rem; /* text-xl */
+  font-weight: 600;
   margin-top: 1.5rem;
+  color: #90b1db;
 }
