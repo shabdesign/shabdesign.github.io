@@ -28,15 +28,15 @@ img {
   margin-right: auto;
 }
 
-h2 {
-  font-size: 1.875rem; /* text-3xl */
+.prose h2 {
+  font-size: 1.875rem !important; /* text-3xl */
   font-weight: 700;
   margin-top: 2rem;
   color: #00569d;
 }
 
-h3 {
-  font-size: 1.25rem; /* text-xl */
+.prose h3 {
+  font-size: 1.25rem !important; /* text-xl */
   font-weight: 600;
   margin-top: 1.5rem;
   color: #90b1db;
