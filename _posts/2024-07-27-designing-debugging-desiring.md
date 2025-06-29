@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing, Debugging, and Not Giving Up
+title: Designing, Debugging, and Still Desiring
 image: "https://picsum.photos/500/300"
 category: Web Journey
 author: Me
