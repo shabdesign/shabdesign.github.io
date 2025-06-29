@@ -32,12 +32,12 @@ img {
   font-size: 1.875rem !important; /* text-3xl */
   font-weight: 700;
   margin-top: 2rem;
-  color: #031A2F;
+  color: #031A2F !important;
 }
 
 .prose h3 {
   font-size: 1.25rem !important; /* text-xl */
   font-weight: 600;
   margin-top: 1.5rem;
-  color: #365F86;
+  color: #365F86 !important;
 }
