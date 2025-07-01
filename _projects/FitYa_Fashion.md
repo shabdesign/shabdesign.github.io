@@ -36,10 +36,9 @@ These are the key insights found:
 - This leads to user anxiety and loss of trust in the tailoring process.
 
 ### Users are excited about personalized shopping solutions
-•	93.27% are interested in using FitYa’s custom tailoring and virtual fitting features.
-•	Most users consider size recommendations and visual references to be the most helpful tools.
-•	A small percentage expressed concern about data privacy, especially regarding body measurements.
-Privacy will be prioritized through clear consent, data control options, and transparent policies.
+- 93.27% are interested in using FitYa’s custom tailoring and virtual fitting features.
+- Most users consider size recommendations and visual references to be the most helpful tools.
+- A small percentage expressed concern about data privacy, especially regarding body measurements.
 
 ## Key Solutions
 <div style="text-align: justify;">
