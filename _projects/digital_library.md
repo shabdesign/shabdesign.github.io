@@ -4,7 +4,6 @@ title: Students & Digital Libraries - From Insight To Interface
 description: A UX case study to improve campus digital library experiences for university students
 image: '../assets/images/DigitalLibraries/AllMockUp.gif'
 tags:
-  - UIdesign
   - UXdesign
   - UXresearch
   - Website
