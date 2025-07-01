@@ -11,7 +11,7 @@ tags:
 
 ## Background
 <div style="text-align: justify;">
-  Online clothing shopping has become part of the modern lifestyle, particularly among fashion enthusiasts. However, although practical, this process is often accompanied by uncertainty: "Will the clothes I buy fit my body?" </div>
+  Online clothing shopping has become part of the modern lifestyle, particularly among fashion enthusiasts. However, although practical, this process is often accompanied by uncertainty: <strong>"Will the clothes I buy fit my body?"</strong> </div>
 <div style="text-align: justify;">
 Many online shoppers, including me, also experience similar problems. Some of the clothes I bought could not be worn because they did not match the size and fit expectations. This causes disappointment, discomfort, and even loss because not all items can be exchanged.</div>
 <div style="text-align: justify;">
@@ -22,8 +22,7 @@ The initial inspiration for this project came from a scene in a drama, where VIP
 
 ## User Survey Overview
 <div style="text-align: justify;">
-To better understand user pain points and expectations regarding online fashion shopping and custom tailoring, a survey was conducted, yielding 119 valid responses. The findings reveal significant issues in sizing accuracy, communication, and order transparency — all of which directly inform the development of features in FitYa. </div>
-These are the key insights found:
+To better understand user pain points and expectations regarding online fashion shopping and custom tailoring, a survey was conducted, yielding 119 valid responses. The findings reveal significant issues in sizing accuracy, communication, and order transparency — all of which directly inform the development of features in FitYa. These are the key insights found: </div>
 
 ### Sizing issues are highly common in online shopping
 - 96.36% of respondents have experienced receiving clothes that didn’t fit.
