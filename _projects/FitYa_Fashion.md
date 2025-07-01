@@ -2,7 +2,7 @@
 layout: project
 title: Designing FitYa! - Fashion That Fits You, Personally
 description: A UX case study about making fashion fit-better for everyone.
-image: '../assets/images/DigitalLibraries/AllMockUp.gif'
+image: '../assets/images/FitYaFashion/Cover.png'
 tags:
   - UIdesign
   - UXdesign
@@ -11,9 +11,12 @@ tags:
 
 ## Background
 <div style="text-align: justify;">
-  Online clothing shopping has become part of the modern lifestyle, particularly among fashion enthusiasts. However, although practical, this process is often accompanied by uncertainty: "Will the clothes I buy fit my body?"
-Many online shoppers, including me, also experience similar problems. Some of the clothes I bought could not be worn because they did not match the size and fit expectations. This causes disappointment, discomfort, and even loss because not all items can be exchanged.
-On the other hand, buyers who want to place custom orders often experience difficulties because they can generally only be done via private chat, which is prone to miscommunication and inefficiency. This is also a problem for tailors and home fashion entrepreneurs who often receive custom orders.
+  Online clothing shopping has become part of the modern lifestyle, particularly among fashion enthusiasts. However, although practical, this process is often accompanied by uncertainty: "Will the clothes I buy fit my body?" </div>
+<div style="text-align: justify;">
+Many online shoppers, including me, also experience similar problems. Some of the clothes I bought could not be worn because they did not match the size and fit expectations. This causes disappointment, discomfort, and even loss because not all items can be exchanged.</div>
+<div style="text-align: justify;">
+On the other hand, buyers who want to place custom orders often experience difficulties because they can generally only be done via private chat, which is prone to miscommunication and inefficiency. This is also a problem for tailors and home fashion entrepreneurs who often receive custom orders.</div>
+<div style="text-align: justify;">
 The initial inspiration for this project came from a scene in a drama, where VIP customers do not need to try on clothes one by one, because a model with a similar body has been provided to demonstrate the clothes they are interested in. This idea highlights the value of a personally relevant visual experience and the ability to choose the right fit in the clothing selection process.
 </div>
 
