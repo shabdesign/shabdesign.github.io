@@ -127,7 +127,7 @@ From this project, the results were obtained in the form of a hi-fi prototype th
 
 ## Notes
 <div style="text-align: justify;">
-  This is my first UI/UX project, and I took on the entire process—from research planning to prototyping—within just one month. While the design and prototype are still far from perfect, I recognize there is much room for growth and improvement. I plan to revisit and refine this work in the future, incorporating deeper insights and evolving user needs. Therefore, I genuinely welcome any feedback, suggestions, or constructive criticism to help elevate both the user experience and design quality. Kindly contact me via <a href="https://www.linkedin.com/in/shabrina-m-654b7b194" target="_blank."> linkedin</a>. </div>
+  This is my first UI/UX project, and I took on the entire process—from research planning to prototyping—within just one month. While the design and prototype are still far from perfect, I recognize there is much room for growth and improvement. I plan to revisit and refine this work in the future, incorporating deeper insights and evolving user needs. Therefore, I genuinely welcome any feedback, suggestions, or constructive criticism to help elevate both the user experience and design quality. Kindly contact me via <a href="https://www.linkedin.com/in/shabrina-m-654b7b194" target="_blank."> linkedin</a> or comment bellow. </div>
 
 ---
 
