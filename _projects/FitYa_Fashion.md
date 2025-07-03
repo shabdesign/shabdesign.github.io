@@ -42,6 +42,11 @@ To better understand user pain points and expectations regarding online fashion 
 - Most users consider size recommendations and visual references to be the most helpful tools.
 - A small percentage expressed concern about data privacy, especially regarding body measurements.
 
+## User Persona
+<a src="../assets/images/FitYaFashion/PersonaAmi.png" width="500"></a>
+<div style="text-align: justify;">
+Two user personas were created to represent two types of clothing buyers. <strong>Ami</strong> represents users who frequently shop for fashion items online but often struggle with sizing accuracy. She prefers convenience, rarely returns items, and needs clear visual guidance to ensure the clothes will fit — especially when buying for herself and loved ones. Meanwhile, <Strong>Sekala</Strong> represents users who occasionally order custom-made clothing through private channels or direct visits. His main pain point is miscommunication, which leads to incorrect designs and delays. He values clarity, agreement, and real-time progress updates.</div>
+
 ## Key Solutions
 <div style="text-align: justify;">
 This application aims to provide a more personal, accurate, and flexible online fashion shopping experience. With the following main features:</div>
