@@ -49,11 +49,11 @@ To better understand user pain points and expectations regarding online fashion 
 Two user personas were created to represent two types of clothing buyers. <strong>Ami</strong> represents users who frequently shop for fashion items online but often struggle with sizing accuracy. She prefers convenience, rarely returns items, and needs clear visual guidance to ensure the clothes will fit — especially when buying for herself and loved ones. Meanwhile, <Strong>Sekala</Strong> represents users who occasionally order custom-made clothing through private channels or direct visits. His main pain point is miscommunication, which leads to incorrect designs and delays. He values clarity, agreement, and real-time progress updates.</div>
 
 ## User Journey Map
-<img src="../assets/images/FitYaFashion/JourneyAmi.png" alt="Journey1" width="500" style="display: block; margin: 2rem auto;">
+<img src="../assets/images/FitYaFashion/JourneyAmi.png" alt="Journey1" width="800" style="display: block; margin: 2rem auto;">
 <div style="text-align:justify;">
   Ami's journey highlights the struggles of buying clothes online without reliable size guidance. Her experience reveals common pain points such as unclear size charts, lack of model references, and the hassle of returning ill-fitting items. These issues result in disappointment and wasted purchases, underscoring the need for smarter, more personalized online fashion tools.
 </div>
-<img src="../assets/images/FitYaFashion/JourneySekala.png" alt="Journey2" width="500" style="display: block; margin: 2rem auto;">
+<img src="../assets/images/FitYaFashion/JourneySekala.png" alt="Journey2" width="800" style="display: block; margin: 2rem auto;">
 <div style="text-align: justify;">
   Sekala’s journey uncovers the challenges faced when ordering custom-made clothing from local tailors. From unclear communication about design preferences to lack of progress transparency, his experience reflects how misaligned expectations can lead to frustration and unmet results. His story shows the importance of structured requests, tracking systems, and mutual clarity in custom services.
 </div>
