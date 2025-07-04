@@ -34,6 +34,23 @@
       });
     });
   </script>
+  <button id="scrollToTopBtn"
+  class="fixed bottom-8 right-8 bg-sky-500 hover:bg-sky-600 text-white px-4 py-2 rounded-full shadow-lg hidden z-50">
+  ↑ Top
+  </button>
+  <script>
+  const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+    window.addEventListener("scroll", () => {
+    if (window.pageYOffset > 300) {
+      scrollToTopBtn.classList.remove("hidden");
+    } else {
+      scrollToTopBtn.classList.add("hidden");
+    }
+  });
+  scrollToTopBtn.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+</script>
 </body>
 
 </html>
