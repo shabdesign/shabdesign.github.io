@@ -2,14 +2,6 @@
 <html lang="{{site.active_lang}}">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="{{ '/assets/css/dist-style.css' | relative_url }}" rel="stylesheet" />
-  <link href="{{ '/assets/css/fonts.css' | relative_url }}" rel="stylesheet" />
-  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
-  {% if site.typewriter_effect %}
-  <script src="https://unpkg.com/typeit@8.8.4/dist/index.umd.js"></script>
-  {% endif %} {% seo %} {% include custom_head.html %}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-4NYXT8119B"></script>
   <script>
@@ -19,6 +11,14 @@
 
     gtag('config', 'G-4NYXT8119B');
   </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="{{ '/assets/css/dist-style.css' | relative_url }}" rel="stylesheet" />
+  <link href="{{ '/assets/css/fonts.css' | relative_url }}" rel="stylesheet" />
+  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" />
+  {% if site.typewriter_effect %}
+  <script src="https://unpkg.com/typeit@8.8.4/dist/index.umd.js"></script>
+  {% endif %} {% seo %} {% include custom_head.html %}
 </head>
 
 <body class="bg-white text-gray-900 dark:bg-gray-700 dark:text-slate-100">
