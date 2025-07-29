@@ -2,7 +2,7 @@
 layout: project
 title: COD Payment Flow Revamp
 description: UI-UX Design as part of Project-Based Internship by Nuri x Rakamin
-image: '../assets/images/SFShop/MockUp.gif'
+image: '../assets/images/SFShop/MockUps.gif'
 tags:
   - UIdesign
   - UXdesign
