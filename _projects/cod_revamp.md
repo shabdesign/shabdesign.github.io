@@ -79,4 +79,7 @@ To illustrate a complete user experience, five key user flows were developed, co
 ### Wireframes
 <img src="../assets/images/SFShop/Wireframes.png" alt="Wireframes" width="400">
 20 wireframes were then made based on the steps stated in the user flows.
+
 ### Design Kit
+<img src="../assets/images/SFShop/DesignKit.png" alt="DesignKit" width="400">
+Here's a preview of the design kit that was created based on the application's identity. Here's a preview of the design kit.
