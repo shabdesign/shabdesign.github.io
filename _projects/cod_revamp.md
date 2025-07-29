@@ -65,7 +65,7 @@ This project focuses on improving **clarity of information** and **precise navig
 - The COD payment system and COD Protection
 - User data security policies
 A breakdown of the related features and screens has also been created and can be seen in the picture.
-<br/>
+<br>
 ### Creating Flows
 <img src="../assets/images/SFShop/UserFlows.png" alt="UserFlows" width="400">
 To illustrate a complete user experience, five key user flows were developed, covering the following scenarios:
@@ -74,7 +74,9 @@ To illustrate a complete user experience, five key user flows were developed, co
 - Checking out using COD and COD Protection
 - Canceling an order before it is processed (early cancellation)
 - Canceling an order upon delivery using COD Protection
-<br/>
-### Wireframing
+
+## Building the Experience
+### Wireframes
 <img src="../assets/images/SFShop/Wireframes.png" alt="Wireframes" width="400">
 20 wireframes were then made based on the steps stated in the user flows.
+### Design Kit
