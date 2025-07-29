@@ -45,3 +45,22 @@ In this stage, an empathy map is used to understand the user’s behaviors, thou
 ### User Persona
 <img src="../assets/images/SFShop/Persona.png" alt="UserPersona" width="400">
 Based on the insights from the empathy map, user personas are created to represent the user's profile, shopping habits, goals, needs, and frustrations. This helps in building a clear, human-centered design foundation.
+
+## Understanding the Challenges
+### Unclear COD System
+Users find the Cash on Delivery (COD) system unclear and sometimes confusing, which may lead to unexpected or incorrect orders.
+<q>How might we ensure that users clearly understand how the COD system works before they use it?</q>
+### Order Cancelation System
+Users need the flexibility to cancel orders that are incorrect or unwanted.
+<q>How might we provide users with enough flexibility to cancel such orders without harming other parties involved?</q>
+### User Data Security
+Users are concerned about data security due to frequent issues of data leaks.
+<q>How might we assure users that their personal information used in COD orders is secure and won’t be misused?</q>
+
+## Bringing Out the Right Solutions
+<img src="../assets/images/SFShop/Ideation.png" alt="Ideation Process" width="400">
+Based on the identified problem statements, several alternative solutions were explored, then refined and combined to form the best possible approach.
+This project focuses on improving **clarity of information** and **precise navigation placement** to support features related to:
+- The COD payment system and COD Protection
+- User data security policies
+A breakdown of the related features and screens has also been created and can be seen in the picture.
