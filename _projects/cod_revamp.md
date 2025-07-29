@@ -11,11 +11,11 @@ tags:
 
 ## Project Overview
 ### Background
-This project is the final assignment of a project-based internship, a collaboration between PT Nuri Gaya Citra and Rakamin Academy. It was designed to hone UI/UX analysis and design skills through real-life user challenges on the sf.shop platform, particularly related to the Cash on Delivery (COD) feature.
+This case study is the final task of the Project-Based Internship in collaboration between PT Nuri Gaya Citra and Rakamin Academy. The project was designed to sharpen UI/UX design and analysis skills by addressing real user problems found on the sf.shop platform, specifically related to the Cash on Delivery (COD) payment feature.
 ### Objectives
 - Identify and resolve user issues with the COD feature, including information, interactions, and service expectations.
-- Promote the adoption of the COD feature as a viable and trusted payment method for new users and users in areas with limited digital access.
-- Create a convenient shopping experience that minimizes confusion for users from diverse digital backgrounds.
+- Encourage broader adoption of COD as a reliable and trusted payment method, especially for users with limited access to digital payments.
+- Create a seamless, intuitive, and stress-free shopping experience for users from various digital literacy levels.
 ### My Role
 UI-UX Designer
 ### Tools
@@ -25,9 +25,21 @@ Miro, Figma, Maze
 
 ## Research Overview
 ### Objectives
-The research was conducted to explore information and problems experienced by users when using the Cash On Delivery (COD) method.
+The research was conducted to explore insights and problems experienced by users when shopping online using Cash on Delivery (COD).
 ### Methods
-The research was conducted using the In-Depth Interview method with 5 respondents who met the following criteria:
-•	18-45 years old
-•	Have shopped online before
+The research was conducted using the In-Depth Interview method with 5 respondents who matched the following criteria:
+- Aged between 18-45 years
+- Have experience with online shopping
+### Key Findings
+- Most respondents shop online regularly and across a variety of product categories.
+- All respondents are already aware of the COD payment method, with most of them learning about it from social media ads.
+- Despite the awareness, most respondents have never used COD in their transactions.
+- They are interested in using COD in certain situations — such as when only having cash or when wanting the option to cancel if the product doesn’t match expectations.
+- However, many rumors and negative stories make users hesitant, such as receiving unexpected COD packages due to data leakage and inability to cancel a COD order because there is no final confirmation step
+- These problems are assumed to be caused by a lack of data security and limited user understanding of how the COD system works.
 
+## Meet the User 
+### Empathy Map
+In this stage, an empathy map is used to understand the user’s behaviors, thoughts, feelings, and environment — including what they say, do, think, and hear.
+### User Persona
+Based on the insights from the empathy map, user personas are created to represent the user's profile, shopping habits, goals, needs, and frustrations. This helps in building a clear, human-centered design foundation.
