@@ -9,7 +9,7 @@ tags:
   - MobileApp
 ---
 
-## Project Overview
+## About This Project
 ### Background
 This case study is the final task of the Project-Based Internship in collaboration between PT Nuri Gaya Citra and Rakamin Academy. The project was designed to sharpen UI/UX design and analysis skills by addressing real user problems found on the sf.shop platform, specifically related to the Cash on Delivery (COD) payment feature.
 ### Objectives
@@ -23,7 +23,7 @@ Miro, Figma, Maze
 ### Duration
 10 Days (July 21-30, 2025)
 
-## Research Overview
+## Research Summary
 ### Objectives
 The research was conducted to explore insights and problems experienced by users when shopping online using Cash on Delivery (COD).
 ### Methods
