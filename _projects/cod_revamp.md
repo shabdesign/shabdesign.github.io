@@ -12,10 +12,10 @@ tags:
 ## Project Overview
 ### Background
 This project is the final assignment of a project-based internship, a collaboration between PT Nuri Gaya Citra and Rakamin Academy. It was designed to hone UI/UX analysis and design skills through real-life user challenges on the sf.shop platform, particularly related to the Cash on Delivery (COD) feature.
-Objectives
-•	Identify and resolve user issues with the COD feature, including information, interactions, and service expectations.
-•	Promote the adoption of the COD feature as a viable and trusted payment method for new users and users in areas with limited digital access.
-•	Create a convenient shopping experience that minimizes confusion for users from diverse digital backgrounds.
+##Objectives
+- Identify and resolve user issues with the COD feature, including information, interactions, and service expectations.
+- Promote the adoption of the COD feature as a viable and trusted payment method for new users and users in areas with limited digital access.
+- Create a convenient shopping experience that minimizes confusion for users from diverse digital backgrounds.
 ### My Role
 UI-UX Designer
 ### Tools
