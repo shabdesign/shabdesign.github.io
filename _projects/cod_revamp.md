@@ -40,6 +40,8 @@ The research was conducted using the In-Depth Interview method with 5 respondent
 
 ## Meet the User 
 ### Empathy Map
+<img src="../assets/images/SFShop/EmpathyMap.png" alt="EmpathyMap" width="400">
 In this stage, an empathy map is used to understand the user’s behaviors, thoughts, feelings, and environment — including what they say, do, think, and hear.
 ### User Persona
+<img src="../assets/images/SFShop/Persona.png" alt="UserPersona" width="400">
 Based on the insights from the empathy map, user personas are created to represent the user's profile, shopping habits, goals, needs, and frustrations. This helps in building a clear, human-centered design foundation.
