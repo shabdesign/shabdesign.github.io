@@ -58,9 +58,19 @@ Users are concerned about data security due to frequent issues of data leaks.
 <q>How might we assure users that their personal information used in COD orders is secure and won’t be misused?</q>
 
 ## Bringing Out the Right Solutions
+### Exploring possibilities
 <img src="../assets/images/SFShop/Ideation.png" alt="Ideation Process" width="400">
 Based on the identified problem statements, several alternative solutions were explored, then refined and combined to form the best possible approach.
 This project focuses on improving **clarity of information** and **precise navigation placement** to support features related to:
 - The COD payment system and COD Protection
 - User data security policies
 A breakdown of the related features and screens has also been created and can be seen in the picture.
+### Creating Flows
+<img src="../assets/images/SFShop/UserFlows.png" alt="UserFlows" width="400">
+To illustrate a complete user experience, five key user flows were developed, covering the following scenarios:
+- Logging into the app
+- Browsing and finding a product
+- Checking out using COD and COD Protection
+- Canceling an order before it is processed (early cancellation)
+- Canceling an order upon delivery using COD Protection
+
