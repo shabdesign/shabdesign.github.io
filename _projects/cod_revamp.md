@@ -58,6 +58,7 @@ Users are concerned about data security due to frequent issues of data leaks.
 <q>How might we assure users that their personal information used in COD orders is secure and won’t be misused?</q>
 
 ## Bringing Out the Right Solutions
+<div>
 ### Exploring possibilities
 <img src="../assets/images/SFShop/Ideation.png" alt="Ideation Process" width="400">
 Based on the identified problem statements, several alternative solutions were explored, then refined and combined to form the best possible approach.
@@ -65,7 +66,8 @@ This project focuses on improving **clarity of information** and **precise navig
 - The COD payment system and COD Protection
 - User data security policies
 A breakdown of the related features and screens has also been created and can be seen in the picture.
-<br>
+</div>
+<div>
 ### Creating Flows
 <img src="../assets/images/SFShop/UserFlows.png" alt="UserFlows" width="400">
 To illustrate a complete user experience, five key user flows were developed, covering the following scenarios:
@@ -73,7 +75,8 @@ To illustrate a complete user experience, five key user flows were developed, co
 - Browsing and finding a product
 - Checking out using COD and COD Protection
 - Canceling an order before it is processed (early cancellation)
-- Canceling an order upon delivery using COD Protection
+- Canceling an order upon delivery using COD Protection 
+</div>
 
 ## Building the Experience
 ### Wireframes
@@ -83,3 +86,35 @@ To illustrate a complete user experience, five key user flows were developed, co
 ### Design Kit
 <img src="../assets/images/SFShop/DesignKit.png" alt="DesignKit" width="400">
 Here's a preview of the design kit that was created based on the application's identity. Here's a preview of the design kit.
+
+### Prototype
+Using the design kit, the resulting prototype is shown below. You can also explore this prototype at <a href="http://bit.ly/3Uy1rY3" target="_blank">this link</a>.
+- Flow 1: Logging into the app
+  <img src="../assets/images/SFShop/Flow1.png" alt="Flow1" height="400">
+- Flow 2: Browsing and finding a product
+  <img src="../assets/images/SFShop/Flow2.png" alt="Flow2" height="400">
+- Flow 3: Checking out using COD and COD Protection
+  <img src="../assets/images/SFShop/Flow3.png" alt="Flow3" height="400">
+- Flow 4: Canceling an order before it is processed (early cancellation)
+  <img src="../assets/images/SFShop/Flow4.png" alt="Flow4" height="400">
+- Flow 5: Canceling an order upon delivery using COD Protection
+  <img src="../assets/images/SFShop/Flow5.png" alt="Flow5" height="400">
+
+## Putting it to the test
+At this stage, usability testing was conducted with four participants through Maze. The prototype achieved a 100% success rate. However, due to the limited time available, the UT was only conducted unmoderated, so direct feedback from participants was not obtained. You can see the results below. You can also try it by yourself by clicking this link.
+- Flow 1: Logging into the app
+  <img src="../assets/images/SFShop/Test1.png" alt="Test1" Width="400">
+- Flow 2: Browsing and finding a product
+  <img src="../assets/images/SFShop/Test2.png" alt="Test2" Width="400">
+- Flow 3: Checking out using COD and COD Protection
+  <img src="../assets/images/SFShop/Test3.png" alt="Test3" Width="400">
+- Flow 4: Canceling an order before it is processed (early cancellation)
+  <img src="../assets/images/SFShop/Test4.png" alt="Test4" Width="400">
+- Flow 5: Canceling an order upon delivery using COD Protection
+  <img src="../assets/images/SFShop/Test5.png" alt="Test5" height="400">
+
+## Outputs
+
+## Summary
+This project focused on understanding user behavior and addressing the challenges they face when using the COD payment method on the sf.shop platform. The findings revealed that lack of clarity in the COD process and concerns about data security were the main issues. Solutions were designed to improve information transparency, clarify order cancellation flows, and create a safer, more reassuring shopping experience.
+This project was more than just a UI design exercise. It was a reflection on how thoughtful design can bridge the gap between user needs and complex systems. Hopefully, this redesign can inspire further development toward a more inclusive and trustworthy digital shopping experience.
