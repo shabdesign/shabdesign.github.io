@@ -90,15 +90,15 @@ Here's a preview of the design kit that was created based on the application's i
 ### Prototype
 Using the design kit, the resulting prototype is shown below. You can also explore this prototype at <a href="http://bit.ly/3Uy1rY3" target="_blank">this link</a>.
 - Flow 1: Logging into the app
-  <img src="../assets/images/SFShop/Flow1.png" alt="Flow1" height="400">
+  <img src="../assets/images/SFShop/Flow1.png" alt="Flow1" Height="400">
 - Flow 2: Browsing and finding a product
-  <img src="../assets/images/SFShop/Flow2.png" alt="Flow2" height="400">
+  <img src="../assets/images/SFShop/Flow2.png" alt="Flow2" Height="400">
 - Flow 3: Checking out using COD and COD Protection
-  <img src="../assets/images/SFShop/Flow3.png" alt="Flow3" height="400">
+  <img src="../assets/images/SFShop/Flow3.png" alt="Flow3" Height="400">
 - Flow 4: Canceling an order before it is processed (early cancellation)
-  <img src="../assets/images/SFShop/Flow4.png" alt="Flow4" height="400">
+  <img src="../assets/images/SFShop/Flow4.png" alt="Flow4" Height="400">
 - Flow 5: Canceling an order upon delivery using COD Protection
-  <img src="../assets/images/SFShop/Flow5.png" alt="Flow5" height="400">
+  <img src="../assets/images/SFShop/Flow5.png" alt="Flow5" Height="400">
 
 ## Putting it to the test
 At this stage, usability testing was conducted with four participants through Maze. The prototype achieved a 100% success rate. However, due to the limited time available, the UT was only conducted unmoderated, so direct feedback from participants was not obtained. You can see the results below. You can also try it by yourself by clicking this link.
@@ -111,9 +111,33 @@ At this stage, usability testing was conducted with four participants through Ma
 - Flow 4: Canceling an order before it is processed (early cancellation)
   <img src="../assets/images/SFShop/Test4.png" alt="Test4" Width="400">
 - Flow 5: Canceling an order upon delivery using COD Protection
-  <img src="../assets/images/SFShop/Test5.png" alt="Test5" height="400">
+  <img src="../assets/images/SFShop/Test5.png" alt="Test5" Width="400">
 
-## Outputs
+## Highlighted Outputs
+### COD System Awareness Confirmation
+<img src="../assets/images/SFShop/Output1.png" alt="Output5" Width="400">
+A confirmation step that ensures users understand how the COD system works before choosing it. It links directly to detailed COD guidance for those who want to learn more.
+### COD Guidance Page
+<img src="../assets/images/SFShop/Output2.png" alt="Output2" Width="400">
+A centralized page containing everything users need to know about COD:
+- Overview of the system
+- Step-by-step usage instructions
+- Frequently Asked Questions (FAQs)
+- Access to Help Center
+Accessible via product pages and the payment method screen.
+### Early Cancellation
+<img src="../assets/images/SFShop/Output3.png" alt="Output3" Width="400">
+A 30-minute window after checkout allows users to cancel their order before the seller processes it.
+- Prevents accidental purchases
+- Reduces failed COD deliveries
+- Protects sellers from unnecessary preparation
+### COD Protection
+<img src="../assets/images/SFShop/Output4.png" alt="Output4" Width="400">
+An optional feature that builds trust and fairness in COD transactions:
+- Buyers can inspect the item on delivery before payment
+- Orders can be rejected if the item is incorrect or damaged
+- Couriers are still compensated
+- All transactions are securely documented
 
 ## Summary
 This project focused on understanding user behavior and addressing the challenges they face when using the COD payment method on the sf.shop platform. The findings revealed that lack of clarity in the COD process and concerns about data security were the main issues. Solutions were designed to improve information transparency, clarify order cancellation flows, and create a safer, more reassuring shopping experience.
