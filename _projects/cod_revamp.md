@@ -117,6 +117,7 @@ At this stage, usability testing was conducted with four participants through Ma
 ### COD System Awareness Confirmation
 <img src="../assets/images/SFShop/Output1.png" alt="Output5" Width="400">
 A confirmation step that ensures users understand how the COD system works before choosing it. It links directly to detailed COD guidance for those who want to learn more.
+
 ### COD Guidance Page
 <img src="../assets/images/SFShop/Output2.png" alt="Output2" Width="400">
 A centralized page containing everything users need to know about COD:
@@ -125,12 +126,14 @@ A centralized page containing everything users need to know about COD:
 - Frequently Asked Questions (FAQs)
 - Access to Help Center
 Accessible via product pages and the payment method screen.
+
 ### Early Cancellation
 <img src="../assets/images/SFShop/Output3.png" alt="Output3" Width="400">
 A 30-minute window after checkout allows users to cancel their order before the seller processes it.
 - Prevents accidental purchases
 - Reduces failed COD deliveries
 - Protects sellers from unnecessary preparation
+
 ### COD Protection
 <img src="../assets/images/SFShop/Output4.png" alt="Output4" Width="400">
 An optional feature that builds trust and fairness in COD transactions:
