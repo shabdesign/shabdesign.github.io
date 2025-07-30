@@ -90,18 +90,18 @@ Here's a preview of the design kit that was created based on the application's i
 ### Prototype
 Using the design kit, the resulting prototype is shown below. You can also explore this prototype at <a href="http://bit.ly/3Uy1rY3" target="_blank">this link</a>.
 - Flow 1: Logging into the app
-  <img src="../assets/images/SFShop/Flow1.png" alt="Flow1" Height="400">
+  <img src="../assets/images/SFShop/Flow1.png" alt="Flow1" height="400">
 - Flow 2: Browsing and finding a product
-  <img src="../assets/images/SFShop/Flow2.png" alt="Flow2" Height="400">
+  <img src="../assets/images/SFShop/Flow2.png" alt="Flow2" width="400">
 - Flow 3: Checking out using COD and COD Protection
-  <img src="../assets/images/SFShop/Flow3.png" alt="Flow3" Height="400">
+  <img src="../assets/images/SFShop/Flow3.png" alt="Flow3" height="400">
 - Flow 4: Canceling an order before it is processed (early cancellation)
-  <img src="../assets/images/SFShop/Flow4.png" alt="Flow4" Height="400">
+  <img src="../assets/images/SFShop/Flow4.png" alt="Flow4" height="400">
 - Flow 5: Canceling an order upon delivery using COD Protection
-  <img src="../assets/images/SFShop/Flow5.png" alt="Flow5" Height="400">
+  <img src="../assets/images/SFShop/Flow5.png" alt="Flow5" height="400">
 
 ## Putting it to the test
-At this stage, usability testing was conducted with four participants through Maze. The prototype achieved a 100% success rate. However, due to the limited time available, the UT was only conducted unmoderated, so direct feedback from participants was not obtained. You can see the results below. You can also try it by yourself by clicking this link.
+At this stage, usability testing was conducted with four participants through Maze. The prototype achieved a 100% success rate. However, due to the limited time available, the UT was only conducted unmoderated, so direct feedback from participants was not obtained. You can see the results below. You can also try it by yourself by clicking <a href="https://t.maze.co/423604674" target="_blank">this link.</a>
 - Flow 1: Logging into the app
   <img src="../assets/images/SFShop/Test1.png" alt="Test1" Width="400">
 - Flow 2: Browsing and finding a product
